@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Gallery</title>
+</head>
+<body>
+  <h1>My Photo Gallery</h1>
+    <h3>Vacation Photos</h3>
+    <img src="https://fastly.picsum.photos/id/16/2500/1667.jpg?hmac=uAkZwYc5phCRNFTrV_prJ_0rP0EdwJaZ4ctje2bY7aE" alt="A Nice View Of..."width 600 height="400">
+    <img src="https://fastly.picsum.photos/id/41/1280/805.jpg?hmac=W9CWeYdlZisqEfhjuODl83T3lCXAqjUZrOe9iMFPYmI" alt="Closeup On Raindrops"width 600 height="400">
+    <img src="https://images.stockcake.com/public/f/9/7/f9746331-150a-45a9-8cce-35223c1411ca/sunset-beach-waves-stockcake.jpg" alt="Beautiful image of the beach!" width="600" height="400">
+    <img src="https://fastly.picsum.photos/id/75/1999/2998.jpg?hmac=0agRZd8c5CRiFvADOWJqfTv6lqYBty3Kw-9LEtLp_98" alt="A Bunch Of Grapes" width="600" height="400">
+<h3>My Pets</h3>
+<img src="" alt="">
+</body>
+</html>
